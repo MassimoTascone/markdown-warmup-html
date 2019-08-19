@@ -1,0 +1,15 @@
+/* CSS for Index.html */
+
+body {
+	background-color: #577284;
+	color: white;
+	text-align: center;
+}
+
+h1 {
+	font-size: 50px;
+	text-decoration: bold;
+}
+hr {
+	width: 60%;
+}
