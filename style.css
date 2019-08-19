@@ -4,6 +4,7 @@ body {
 	background-color: #577284;
 	color: white;
 	text-align: center;
+	font-size: 20px;
 }
 
 h1 {
@@ -13,3 +14,16 @@ h1 {
 hr {
 	width: 60%;
 }
+
+.listunord {
+	text-align: left;
+}
+.listord {
+	text-align: left;
+}
+.linkbecode {
+	text-decoration: underline;
+	font-style: bold;
+	color: white;
+}
+
